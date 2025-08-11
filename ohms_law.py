@@ -1,4 +1,5 @@
 # ohms_law.py
+# Developed by: Stephen Omwamba
 # Description: Simple program to calculate Voltage (V) using Ohm's Law: V = I * R
 # Get user input for current and resistance
 current = float(input("Enter the current (in A): "))
